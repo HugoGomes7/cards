@@ -8,10 +8,51 @@
   <meta name="keywords" content="cards html css javascript">
   <meta name="author" content="Hugo D'Lucca">
   <meta name="description" content="Cards desenvolvidos com html, css e Js para organização de projetos pessoais">
-  <title>Cards</title>
+  <title>D'Luccards</title>
+
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/styles.css">
 </head>
 
 <body>
+  <section class="container">
+    <div class="card">
+      <div class="content">
+        <h2>frontend</h2>
+        <h3>Front-End</h3>
+        <p>Todos meus projetos focados apenas no Frontend e no ecossistema do JavaScript. Dessa forma, clicando no botão
+          abaixo você será redirecionado para uma página de cards com projetos/websites desenvolvidos com em HTML, CSS,
+          JavaScript, TypeScript, React e framework como Bootstrap. (em constante atualização)</p>
+        <a href="#">View More</a>
+      </div>
+    </div>
+    <div class="card">
+      <div class="content">
+        <h2>fullstack</h2>
+        <h3>Full-Stack</h3>
+        <p>Projetos Full-Stack onde além do Frontend foram fornecidos dados por um Backend e realizada manipulações em
+          um Banco de Dados.</p>
+        <a href="#">View More</a>
+      </div>
+    </div>
+    <div class="card">
+      <div class="content">
+        <!-- <h2>em breve</h2> -->
+        <h3>Em breve</h3>
+        <!-- <p></p> -->
+        <!-- <a href="#">View More</a> -->
+      </div>
+    </div>
+  </section>
+
+  <script type="text/javascript" src="vanilla-tilt.js"></script>
+  <script>
+    VanillaTilt.init(document.querySelectorAll(".card"), {
+      max: 25,
+      speed: 400,
+      glare: true, "max-glare": 1,
+    });
+  </script>
 
 </body>
 
