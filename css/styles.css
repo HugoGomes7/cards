@@ -5,7 +5,7 @@ body {
   justify-content: center;
   text-align: center;
   min-height: 100vh;
-  background: url(https://img.freepik.com/fotos-gratis/imagem-de-close-up-de-programador-trabalhando-em-sua-mesa-no-escritorio_1098-18707.jpg?w=1380&t=st=1666141551~exp=1666142151~hmac=6a2e1de5264723bb1dcfe8471cad3154b3aa797045c7bf1ddc06c50c7fab426d);
+  background: url(../assets/bg-cards.jpeg);
   font-family: 'Baumans', cursive;
   background-size: 100%;
 }
