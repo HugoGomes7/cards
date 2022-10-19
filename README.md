@@ -22,7 +22,7 @@ I'll add images
 
 # How to run the project
 ## clone repository
-git clone https://github.com/HugoGomes7/dev-agency
+git clone https://github.com/HugoGomes7/cards
 
 ## Open project folder in VSCode
 Run on Go Live Server 
