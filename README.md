@@ -11,7 +11,9 @@ https://dluccards.netlify.app
 
 
 ## Layout web 
-I'll add images
+https://user-images.githubusercontent.com/65207104/199977499-85a801e6-87fa-4beb-b8b7-05a8c41809fa.mp4
+
+
 
 # Technologies used
 ## Frontend
